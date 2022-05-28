@@ -32,4 +32,5 @@ In order to run this game, you need to follow these steps -
 - Enjoy the game.
 
 > :memo: **Note:** This project code is written on Windows OS.
+
 > ⬇️: **Download:** You can download whole project folder (zip) from [here](https://github.com/SaruarChy/Brick-Breaker-OpenGL/archive/refs/heads/main.zip).
